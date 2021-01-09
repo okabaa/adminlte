@@ -1,13 +1,13 @@
 @extends('adminlte::page')
 
-@section('title', 'Dashboard')
+@section('title', 'Gösterim Paneli')
 
 @section('content_header')
-    <h1>Dashboard</h1>
+    <h1>Gösterim Paneli</h1>
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+    <p>Gösterim panelini görüntülüyorsunuz.</p>
 @stop
 
 @section('css')
